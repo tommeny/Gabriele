@@ -1,0 +1,4 @@
+- 👋 Olá, sou @tommeny
+- 👀 Estou interessada em aprender mais sobre o mundo da programação
+- 🌱 Atualmente estou aprendendo como começar a usar javascript e scratch
+- 👩‍🎓 Estou em busca de me tornar uma programadora de jogos
