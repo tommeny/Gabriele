@@ -1,4 +1,4 @@
-- 👋 Olá, sou @tommeny
+- 👋 Olá, sou @gabriele
 - 👀 Estou interessado em aprender mais sobre o mundo da programação
 - 🌱 Atualmente estou aprendendo como usar o javascript e o scratch
 - 👩‍🎓 Estou em busca de me tornar uma programador de jogos
